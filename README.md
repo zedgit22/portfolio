@@ -5,6 +5,10 @@
 'House Price India.csv' dataset.
 ![df0__head](https://github.com/user-attachments/assets/e796dbd0-2c4c-4a9b-a3de-72005b74b6c4)
 
+### Check for missing data
+
+![check for missing data](https://github.com/user-attachments/assets/02e43541-8a31-40dc-82ed-e2d298dd71ef)
+
 
 ### Data visualizattion:Box plot
 A boxplot, also known as a box-and-whisker plot, is a way to visually show the distribution of numerical data. It displays the following key statistics:
