@@ -5,10 +5,24 @@
 'House Price India.csv' dataset.
 ![df0__head](https://github.com/user-attachments/assets/e796dbd0-2c4c-4a9b-a3de-72005b74b6c4)
 
+
+### Data visualizattion:Box plot
+A boxplot, also known as a box-and-whisker plot, is a way to visually show the distribution of numerical data. It displays the following key statistics:
+
+Median: The middle value of the data, represented by a line inside the box.
+Quartiles: The box itself represents the interquartile range (IQR), which contains the middle 50% of the data. The bottom of the box is the first quartile (25th percentile), and the top is the third quartile (75th percentile).
+Whiskers: Lines extending from the box show the range of the data, excluding outliers. They typically extend to 1.5 times the IQR from the box edges.
+Outliers: Individual data points beyond the whiskers are plotted as dots, indicating potential outliers.
+Boxplots are useful for:
+
+Comparing distributions: You can easily see differences in median, spread, and skewness between groups by placing multiple boxplots side-by-side.
+Identifying outliers: Outliers are clearly marked, allowing you to investigate them further.
+Understanding data range and variability: The box and whiskers provide a quick overview of the data's spread.
+
 ### Data visualizattion:  Heatmap Corelation
 A heatmap correlation is a graphical representation of a correlation matrix. It uses color to show the strength of the relationship between multiple numerical variables. Red usually indicates a positive correlation, blue a negative correlation, and the intensity of the color represents the strength of the correlation.
 
-In this heatmap it was generated using the seaborn library to visualize the correlations between numerical columns in the 'House Price India.csv' dataset.
+In this heatmapz it was generated using the seaborn library to visualize the correlations between numerical columns in the 'House Price India.csv' dataset.
 ![heatmap](https://github.com/user-attachments/assets/ca467df7-fd38-4517-9a99-b4bbf7ffaa70)
 
 ### Data visualizattion: 3d Stacked bar plot
