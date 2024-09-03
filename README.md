@@ -19,6 +19,9 @@ Comparing distributions: You can easily see differences in median, spread, and s
 Identifying outliers: Outliers are clearly marked, allowing you to investigate them further.
 Understanding data range and variability: The box and whiskers provide a quick overview of the data's spread.
 
+
+![boxplot](https://github.com/user-attachments/assets/28c80d76-f517-45e1-b4bc-36d4b7d1cb63)
+
 ### Data visualizattion:  Heatmap Corelation
 A heatmap correlation is a graphical representation of a correlation matrix. It uses color to show the strength of the relationship between multiple numerical variables. Red usually indicates a positive correlation, blue a negative correlation, and the intensity of the color represents the strength of the correlation.
 
